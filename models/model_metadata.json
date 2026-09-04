@@ -1,0 +1,14 @@
+{
+  "selected_k": 5,
+  "silhouette": 0.2770159630808775,
+  "calinski_harabasz": 3647.5849382151455,
+  "davies_bouldin": 1.3763468481364731,
+  "adjusted_rand_vs_synthetic_archetype": 0.9422955607576367,
+  "cluster_name_mapping": {
+    "2": "Alta Renda Investidor",
+    "4": "Digital Multirrelacionado",
+    "0": "Crédito Intensivo",
+    "3": "Tradicional Essencial",
+    "1": "Jovem em Ascensão"
+  }
+}
